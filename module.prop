@@ -1,9 +1,8 @@
-id=template
-name=Template Module
+id=fontschanger
+name=Fonts Changer
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=zyu0090
+description=Magisk Fonts Changer
+support=zyu0090@gmail.com
 cacheModule=false
